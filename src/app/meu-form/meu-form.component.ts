@@ -10,8 +10,8 @@ export class MeuFormComponent implements OnInit {
 
   pessoa: any = {
     nome: 'adson',
-    idade: "30"
-  }
+    idade: '30'
+  };
 
   constructor() { }
 
